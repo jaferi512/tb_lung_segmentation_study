@@ -156,7 +156,3 @@ Please also cite the dataset: Jaeger S. et al., *Quant Imaging Med Surg* 2014;4(
 ## License
 
 MIT for the code. The Montgomery data remain under the U.S. National Library of Medicine's terms. This is research code, not a medical device.
-# tb_lung_segmentation_study
-# tb_lung_segmentation_study
-# tb_lung_segmentation_study
-# tb_lung_segmentation_study

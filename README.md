@@ -2,7 +2,7 @@
 
 **A matched U-Net + ResNet-18 study on the Montgomery County dataset: code for the paper**
 
-> Haider A, Ullah I, Hakeem S, Ali K. *Accurate Lung Segmentation Does Not Improve Deep Learning Detection of Tuberculosis on Chest Radiographs: A Controlled U-Net and ResNet-18 Study.* Pak J Med Cardiol Rev. 2026;5(1):7719–7746. [doi:10.66021/pakmcr1834](https://doi.org/10.66021/pakmcr1834)
+> Haider A, Ullah I, Hakeem S, Ali K. *Accurate Lung Segmentation Does Not Improve Deep Learning Detection of Tuberculosis on Chest Radiographs: A Controlled U-Net and ResNet-18 Study.* Pak J Med Cardiol Rev. 2026;5(1):7719–7746. [doi:10.66021/pakmcr1834](https://pakjmcr.com/index.php/1/article/view/1834)
 
 ![tests](https://github.com/OWNER/tb-lung-segmentation-study/actions/workflows/tests.yml/badge.svg)
 

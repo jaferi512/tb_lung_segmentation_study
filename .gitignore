@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Data and large outputs are never committed (dataset licence + size)
+data/
+outputs/
+*.pt
+*.npz
+
+.DS_Store
+.ipynb_checkpoints/

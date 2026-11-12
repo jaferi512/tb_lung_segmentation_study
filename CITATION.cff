@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "tbstudy: lung segmentation vs whole-image TB detection on chest radiographs"
+authors:
+  - family-names: Haider
+    given-names: Adnan
+license: MIT
+preferred-citation:
+  type: article
+  title: "Accurate Lung Segmentation Does Not Improve Deep Learning Detection of Tuberculosis on Chest Radiographs: A Controlled U-Net and ResNet-18 Study"
+  authors:
+    - family-names: Haider
+      given-names: Adnan
+    - family-names: Ullah
+      given-names: Ikram
+    - family-names: Hakeem
+      given-names: Summiya
+    - family-names: Ali
+      given-names: Kamran
+  journal: "Pakistan Journal of Medical & Cardiological Review"
+  volume: 5
+  issue: 1
+  start: 7719
+  end: 7746
+  year: 2026
+  doi: "10.66021/pakmcr1834"
